@@ -9,6 +9,7 @@ const int TABLE_SIZE = 128;
  * HashEntry Class Declaration
  */
 class HashEntry
+	
 {
     public:
         int key;
