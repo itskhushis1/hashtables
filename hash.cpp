@@ -5,7 +5,6 @@
 using namespace std;
 const int TABLE_SIZE = 128;
  
-
 /*
  * HashEntry Class Declaration
  */
